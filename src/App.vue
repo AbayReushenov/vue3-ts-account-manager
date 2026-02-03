@@ -1,12 +1,15 @@
 <script setup lang="ts">
-
+import AccountList from './components/AccountList.vue';
 </script>
 
 <template>
-  <div style="padding: 2rem;">
-    <h1>Hello, Vue + PrimeVue!</h1>
-  </div>
+  <AccountList />
 </template>
 
-<style scoped>
+<style>
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
 </style>
