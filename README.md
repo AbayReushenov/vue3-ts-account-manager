@@ -11,3 +11,11 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 
 
 # vue3-ts-account-manager
+
+
+**Использованы пакеты:**
+
+1. **`pinia`**: Стейт-менеджер
+2. **`primevue`**: Ядро библиотеки компонентов (логика кнопок, инпутов).
+3. **`@primevue/themes`**: Будем использовать пресет **Aura**
+4. **`primeicons`**: Набор иконок.
