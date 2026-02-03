@@ -7,7 +7,6 @@ import InputText from 'primevue/inputtext';
 import Select from 'primevue/select';
 import Password from 'primevue/password';
 import Button from 'primevue/button';
-import Message from 'primevue/message';
 
 const props = defineProps<{
     account: Account;
