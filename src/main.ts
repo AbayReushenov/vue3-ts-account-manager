@@ -13,8 +13,8 @@ app.use(createPinia())
 app.use(PrimeVue, {
     theme: {
         preset: Aura,
-        options: {}
-    }
+        options: {},
+    },
 })
 
 app.mount('#app')
